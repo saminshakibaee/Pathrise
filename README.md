@@ -13,9 +13,6 @@ Pathrise is an online program offering mentorship and training to job seekers in
 - **Predictive Modeling**: Machine learning models built to predict job placement outcomes and timelines.
 - **Insights & Recommendations**: Derived insights and strategic recommendations for Pathrise.
 
-## How to Use
-Clone the repository and follow the instructions in the `README.md` to set up the environment and run the analysis.
-
 ## Technologies Used
 - Python
 - Pandas, NumPy
